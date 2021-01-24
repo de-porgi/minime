@@ -60,12 +60,3 @@ If this token contract is used as the base token, then clones of itself can be e
 8. Lots of other applications including all the applications the standard ERC 20 token can be used for.
 
 All these applications and more are enabled by the MiniMe Token Contract. The most amazing part being that anyone that wants to add these features can, in a permissionless yet safe manner without affecting the parent token's intended functionality.
-
-# How to deploy a campaign
-
-1. Deploy the MinimeTokenFactory
-2. Deploy the MinimeToken
-3. Deploy the campaign
-4. Assign the controller of the MinimeToken to the campaign.
-
-
